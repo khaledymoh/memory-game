@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+
+    <string name="title_menu_memory_game_activity_reset_game">Reset Game</string>
+    <string name="label_game_count_down_timer">00:%s</string>
+    <string name="label_game_start_count_down_timer">01:00</string>
+    <string name="label_memory_game_you_won">You Won!!</string>
+    <string name="label_memory_game_you_loss">You Loss!</string>
+</resources>
