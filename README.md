@@ -1,7 +1,5 @@
 # Simple Memory Game
 
-Covid-19 Tracker is an open source android App for tracking coronavirus (Covid19 / 19nCov) cases in the World.
-
 ## Libraries, Languages and Concepts
 - Kotlin
 - MVP Architecture
